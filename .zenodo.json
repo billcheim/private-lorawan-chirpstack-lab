@@ -3,7 +3,7 @@
   "description": "Documentation and deployment-oriented lab guide for building a private LoRaWAN sensing network using ChirpStack, gateways, sensor nodes, and MQTT integrations.",
   "creators": [
     {
-      "name": "Bill Cheim"
+      "name": "Cheimaras Vasileios"
     }
   ],
   "license": "MIT",
