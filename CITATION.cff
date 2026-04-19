@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Private LoRaWAN Sensing Network with ChirpStack"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Cheimaras"
+    given-names: "Vasileios"
+repository-code: "https://github.com/billcheim/private-lorawan-chirpstack-lab"
+license: MIT
+version: "v1.0.0"
+abstract: "Documentation and deployment-oriented lab guide for building a private LoRaWAN sensing network using ChirpStack, gateways, sensor nodes, and MQTT integrations."
+keywords:
+  - LoRaWAN
+  - ChirpStack
+  - IoT
+  - LPWAN
+  - MQTT
+  - Sensing
+  - Gateway
+  - Telemetry
